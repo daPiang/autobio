@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.margin {
+  margin: 75% 0;
+}
+.parallax {
+  background: url("https://images.hdqwalls.com/download/colors-flow-abstract-4k-jv-2560x1440.jpg")
+    repeat fixed 100%;
+}
+.parallax-inner {
+  padding-top: 30%;
+  padding-bottom: 30%;
+}
+.parallax-inner h1 {
+  color: white;
+  text-align: center;
+  font-size: 500%;
+  letter-spacing: 3px;
+}
